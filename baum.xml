@@ -1,1 +1,12 @@
 <!-- Baum-Struktur-->
+<wurzel>
+    <stamm>
+        <ast>
+            <zweig>
+                <Blatt> color="green"</Blatt>
+            </zweig>
+        </ast>
+        <ast></ast>
+        <ast></ast>
+    </stamm>
+</wurzel>
